@@ -253,8 +253,8 @@ public:
     typedef std::vector<BuilderInfo> BuilderInfoList;
     const statismo::MatrixType& GetScoresMatrix() const;
 
-    virtual void Save(const H5::CommonFG& publicFg) const;
-    virtual void Load(const H5::CommonFG& publicFg);
+    virtual void Save(const H5::H5Location& publicFg) const;
+    virtual void Load(const H5::H5Location& publicFg);
     BuilderInfoList GetBuilderInfoList() const ;
 };
 }
