@@ -47,6 +47,7 @@
 
 #include "CommonTypes.h"
 #include "Exceptions.h"
+#include <cassert>
 
 namespace statismo {
 
