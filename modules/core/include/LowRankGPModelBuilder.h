@@ -30,7 +30,6 @@
 #include "Nystrom.h"
 #include "Representer.h"
 #include "StatisticalModel.h"
-#include <cassert>
 
 namespace statismo {
 
