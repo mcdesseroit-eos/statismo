@@ -42,6 +42,7 @@
 #include <KernelCombinators.h>
 #include <Kernels.h>
 
+#include <cassert>
 /*
 You can add your kernels here:
 	1. Either #include your kernel or put the class in here

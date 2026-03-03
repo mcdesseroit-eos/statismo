@@ -48,6 +48,7 @@
 #include "HDF5Utils.h"
 #include "ModelBuilder.h"
 #include "StatisticalModel.h"
+#include <cassert>
 
 namespace statismo {
 

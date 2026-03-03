@@ -46,6 +46,7 @@
 
 #include "Exceptions.h"
 #include "PCAModelBuilder.h"
+#include <cassert>
 
 namespace statismo {
 

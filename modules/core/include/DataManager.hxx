@@ -42,6 +42,7 @@
 
 #include "DataManager.h"
 #include "HDF5Utils.h"
+#include <cassert>
 
 namespace statismo {
 

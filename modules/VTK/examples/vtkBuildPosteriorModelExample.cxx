@@ -54,6 +54,7 @@
 #include "PosteriorModelBuilder.h"
 #include "StatisticalModel.h"
 #include "StatismoIO.h"
+#include <cassert>
 
 #include "vtkStandardMeshRepresenter.h"
 

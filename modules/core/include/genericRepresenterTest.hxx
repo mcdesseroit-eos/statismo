@@ -40,6 +40,7 @@
 #include "CommonTypes.h"
 #include "HDF5Utils.h"
 #include "StatismoUtils.h"
+#include <cassert>
 
 /**
  * This class provides generic tests for representer. The tests need to hold for all representers.

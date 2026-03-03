@@ -43,6 +43,7 @@
 
 #include "Exceptions.h"
 #include "CommonTypes.h"
+#include <cassert>
 
 namespace itk {
 

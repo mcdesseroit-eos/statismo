@@ -45,6 +45,7 @@
 
 #include "HDF5Utils.h"
 #include "StatismoUtils.h"
+#include <cassert>
 
 vtkUnstructuredGridRepresenter::vtkUnstructuredGridRepresenter(DatasetConstPointerType reference, AlignmentType alignment)
     :
