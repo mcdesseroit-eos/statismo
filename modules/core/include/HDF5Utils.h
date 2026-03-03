@@ -40,7 +40,7 @@
 #define HDF5UTILS_H_
 
 #include "CommonTypes.h"
-
+#include <H5Location.h>
 
 namespace H5 {
 class CommonFG;
